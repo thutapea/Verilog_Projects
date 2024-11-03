@@ -7,3 +7,6 @@ The decoder_tb.v contains the testbench that instantiates verilog_decoder.v and 
 The decoder_project_xpr is the file directory used in Xilinx Vivado to create the project. 
 
 The png is a screenshot of the resulting waveform.
+
+![alt text](https://github.com/thutapea/Verilog_Projects/blob/main/decoder/decoder_wvf.png "Decoder Testbench Waveform")
+
