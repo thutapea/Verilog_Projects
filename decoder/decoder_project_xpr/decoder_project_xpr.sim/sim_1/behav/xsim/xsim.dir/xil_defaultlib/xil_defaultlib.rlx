@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/Xilinx_projects/decoder/decoder_project_xpr/decoder_project_xpr.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/Xilinx_projects/decoder/decoder_tb.v,1730620335,verilog,,,,decoder_tb,,,,,,,,
+C:/Xilinx_projects/decoder/verilog_decoder.v,1730620371,verilog,,C:/Xilinx_projects/decoder/decoder_tb.v,,decoder,,,,,,,,
